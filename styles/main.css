@@ -1,4 +1,3 @@
-
 /* linked used https://youtu.be/zNccqv0g6Q4 */
 
 /* Style for all tag*/
@@ -205,6 +204,4 @@ align-self: auto;
      .timeline ul li:hover::after{
         background-color: rgb(216, 177, 213);
      }
-
-}
-     
+    }
