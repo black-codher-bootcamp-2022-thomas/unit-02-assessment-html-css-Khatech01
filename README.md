@@ -32,6 +32,7 @@ You are free to add more content and style it anyway you want. Below is some [ex
     1. Must be linked from `index.html`
     2. Import at least one font
 3. [Deployed to Netlify](https://docs.netlify.com/site-deploys/create-deploys/) and your [site's status badge](https://docs.netlify.com/monitor-sites/status-badges/) added to this file (`README.md`)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/baf17fa3-98cc-4fde-a81c-4552b6df6f5b/deploy-status)](https://app.netlify.com/sites/helene-portofolio/deploys)
 
 ## How to submit
 

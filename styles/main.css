@@ -62,12 +62,12 @@ section, ul {
     background-color:  rgb(118, 154, 116);
     color:  white; 
     }
-.project-content:hover {
+.projects-content:hover {
     opacity: 0.7;
     }
 
     
-.photo{
+.profile-img{
 /* order: ; */
 align-self: auto;
 }   
@@ -117,7 +117,7 @@ align-self: auto;
     background-color:rgb(216, 177, 213);
     color: white;
 }
-.footer-social-icons{
+.social-media{
     /* display: inline-block;
     width: 20%;
     margin: auto; */
