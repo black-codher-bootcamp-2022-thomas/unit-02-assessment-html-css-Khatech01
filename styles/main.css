@@ -132,6 +132,16 @@ align-self: auto;
     font-weight: 5px;
     }
 
+    .social-media{
+        /* display: inline-block;
+        width: 20%;
+        margin: auto; */
+        display: flex;
+        text-align: center;
+        font-weight: 5px;
+        background-color: black;
+        }
+
 .fa {
     /*padding: 20px;*/
     font-size: 2px;
