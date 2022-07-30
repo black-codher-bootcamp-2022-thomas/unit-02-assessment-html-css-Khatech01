@@ -12,6 +12,7 @@
 /*General styling*/
 body {
     font-family: 'Cairo', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Dosis:wght@300&family=Urbanist:wght@200&display=swap');
 }
 
 h1 {
